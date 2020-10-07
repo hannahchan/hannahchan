@@ -1,6 +1,6 @@
 ## Hi, I'm Hannah
 
-I'm a Software Engineer with a Cloud and Infrastructure background. I currently work in a microservices environment at a company called [MYOB](https://www.myob.com) building web applications and platforms for accountants and accounting practices. This is my personal GitHub profile.
+I'm a Software Engineer with Cloud and Infrastructure (DevOps) experience. I currently work in a microservices environment at a company called [MYOB](https://www.myob.com) building web applications and platforms for accountants and accounting practices. This is my personal GitHub profile.
 
 I primarily focus on building containerised applications with C# and .NET Core and deploying it to Kubernetes. I also build serverless applications with TypeScript and Node.js on AWS and in the front-end space I work with React.
 
