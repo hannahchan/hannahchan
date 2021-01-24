@@ -12,11 +12,22 @@ Just like all other software engineers, I've have mixture of skills and interest
 - ASP.NET
 - Entity Framework
 - xUnit
+- Mutation Testing
 - Cake Build
+- TypeScript
+- Node.js
 - Domain Driven Design (DDD)
+- Test Driven Development (TDD)
 - Hexagonal Architecture
 - Immutable Infrastructure
+- Amazon Web Services (AWS)
+  - CloudFormation
+  - CloudWatch
+  - Lambda
+  - Aurora
+  - DynamoDB
 - Kubernetes
+- OpenTelemetry
 - Grafana
 - Prometheus
 - Jaeger
@@ -26,18 +37,13 @@ Just like all other software engineers, I've have mixture of skills and interest
 
 ## Things I'm currently learning or experimenting with
 
-- TypeScript
-- Node.js
-- Command Query Responsibility Segregation (CQRS)
-- OpenTelemetry
-- Mutation Testing
 - Code Generation
-- Amazon Web Services (AWS)
-  - CloudFormation
-  - CloudWatch
-  - Lambda
-  - Aurora
-  - DynamoDB
+- Azure
+- Python
+- Apache Lucene
+- Apache Spark
+- GraphQL
+- OData
 
 ## Things I'm interested in or working towards
 
