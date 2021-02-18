@@ -37,6 +37,7 @@ Just like all other software engineers, I've have mixture of skills and interest
 
 ## Things I'm currently learning or experimenting with
 
+- Angular
 - Code Generation
 - Azure
 - Python
