@@ -6,7 +6,7 @@ I primarily focus on building containerised applications with C# / .NET and depl
 
 In my early career I worked in Enterprise IT.
 
-[Check me out on LinkedIn](https://www.linkedin.com/in/hannahchan1).
+[Check me out on LinkedIn](https://www.linkedin.com/in/hannahchandev).
 
 ## About my GitHub
 
