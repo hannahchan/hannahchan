@@ -10,4 +10,4 @@ In my early career I worked in Enterprise IT.
 
 ## About my GitHub
 
-If you're interested in how I think as a software engineer, please checkout my passion project [Scaffold.WebApi](https://github.com/hannahchan/Scaffold.WebApi). I primarily use this project to experiment and learn and it generally represents my current thinking about software. Feel free to look at my other repositories as well however please keep in mind that these maybe incomplete.
+If you're interested in how I think as a software engineer, please checkout my passion project [Scaffold.Service](https://github.com/hannahchan/Scaffold.Service). I primarily use this project to experiment and learn and it generally represents my current thinking about software. Feel free to look at my other repositories as well however please keep in mind that these maybe incomplete.
