@@ -1,8 +1,8 @@
 ## Hi, I'm Hannah
 
-I'm a Software Engineer with Cloud and Infrastructure (DevOps) experience. I currently work for EndeavourX, the tech division of [Endeavour Group](https://endeavourgroup.com.au) building applications. I also previously worked in a microservices environment at a company called [MYOB](https://www.myob.com). This is my personal GitHub profile.
+I'm a software engineer with cloud and infrastructure experience based in Sydney and I currently work for [Atlassian](https://www.atlassian.com) doing stuff to help improve the scalability and performance of Jira Cloud. I have also worked for endeavourX, the tech division of [Endeavour Group](https://endeavourgroup.com.au) and [MYOB](https://www.myob.com). This is my personal GitHub profile.
 
-I primarily focus on building containerised applications with C# / .NET and deploying it to Kubernetes. I've also built serverless applications with TypeScript and Node.js on AWS and in the front-end space I have worked with both Angular and React.
+I primarily focus on building containerised applications in C# / .NET and am currently up-skilling to do this in Java. I have experience in deploying applications to Kubernetes and AWS and have also built serverless applications with TypeScript and Node.js. In the front-end space I have worked with both Angular and React and in the data space, I have exposure to Python and PySpark in Databricks. PostgreSQL is also my preferred database.
 
 In my early career I worked in Enterprise IT.
 
